@@ -1,0 +1,10 @@
+h3 {
+    color: red;
+    font-family: arial, sans-serif;
+}
+
+p.external-paragraph {
+    color: blue;
+    font-family: verdana, sans-serif; 
+    font-size: 18px;
+}
